@@ -1,0 +1,5 @@
+{
+    "scss-to-css-compile.outDir": "/assets/styles",
+    "scss-to-css-compile.autoPrefixer": true,
+    "scss-to-css-compile.compileOnSave": true
+}
